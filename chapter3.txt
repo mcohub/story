@@ -1,0 +1,1 @@
+Bu benim git denemem. Bu dosyayı once git e göndereceğim sonra da değiştirip farklı bir branch kaydedeceğim. 
